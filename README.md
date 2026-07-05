@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=200&section=header&text=Brenton%20Bluehouse&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20%26%20AI%20Engineer%20%E2%80%A2%2010%2B%20Years%20%E2%80%A2%20SaaS%20Architect&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Brenton%20Bluehouse&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20and%20AI%20Engineer%20%7C%2010%2B%20Years%20%7C%20SaaS%20Architect&descAlignY=55&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=600&lines=Building+Scalable+SaaS+Platforms;Engineering+AI-Powered+Products;Serverless+%26+Cloud-Native+Architecture;Secure+by+Design+%E2%80%94+M.S.+Cybersecurity" alt="Typing SVG" />
 
