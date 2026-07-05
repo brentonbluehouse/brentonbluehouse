@@ -193,8 +193,8 @@ A reusable TypeScript scaffold for launching SaaS apps fast — opinionated stru
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=brentonbluehouse&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brentonbluehouse&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="170" src="https://github-readme-stats-pi-taupe-97.vercel.app/api?username=brentonbluehouse&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats-pi-taupe-97.vercel.app/api/top-langs/?username=brentonbluehouse&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <br/><br/>
 
@@ -212,7 +212,7 @@ A reusable TypeScript scaffold for launching SaaS apps fast — opinionated stru
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=brentonbluehouse&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="95%" />
+<img src="https://github-profile-trophy-one-inky.vercel.app/?username=brentonbluehouse&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" width="95%" />
 
 </div>
 
