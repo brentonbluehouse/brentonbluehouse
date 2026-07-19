@@ -3,7 +3,7 @@
 ### Senior Full-Stack & AI Engineer  
 **SaaS Platforms · AI Applications · Cloud Architecture · Automation**
 
-I’m a senior software engineer with **22+ years of experience building production web applications, backend systems, cloud infrastructure, and scalable software platforms**, including more than **5 years working with AI applications, LLM integrations, and workflow automation**.
+I’m a senior software engineer with **12+ years of experience building production web applications, backend systems, cloud infrastructure, and scalable software platforms**, including more than **5 years working with AI applications, LLM integrations, and workflow automation**.
 
 I help startups and growing businesses turn complex ideas into secure, reliable, and production-ready software. My work covers the complete product lifecycle—from requirements and architecture to frontend development, backend engineering, AI integration, infrastructure, deployment, and optimization.
 
