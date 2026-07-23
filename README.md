@@ -18,8 +18,7 @@ I build systems that are **optimized for performance and cost, secure and automa
 
 [Portfolio](https://brenton-bluehouse-portfolio.vercel.app) ·
 [Projects](https://github.com/brentonbluehouse?tab=repositories) ·
-[LinkedIn](YOUR_LINKEDIN_URL) ·
-[Email](mailto:YOUR_EMAIL_ADDRESS)
+[Email](mailto:brenton.bluehouse62@gmail.com)
 
 ---
 
